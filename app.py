@@ -30,8 +30,7 @@ import re
 from collections import Counter
 
 from flask import Flask , render_template, request, redirect, url_for, session, flash
-from flask import Flask, jsonify, request
-import numpy as np
+from flask import jsonify, 
 import  pyrebase
 
 import firebase_admin
