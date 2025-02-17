@@ -42,9 +42,6 @@ This system aims to provide personalized and dynamic course recommendations to u
 - Initially, the recommendations are based on the user’s interests.
 - After users complete courses, the recommendations adapt based on their previous course choices.
 - The system continuously improves course suggestions using collaborative filtering, sentiment analysis, and various similarity measures like Pearson correlation and Cosine similarity.
-
-## Future Improvements
-
 - Integration of more advanced algorithms for course recommendations
 - User profiling based on learning behavior and preferences
 - Real-time feedback mechanism for users to rate recommendations
